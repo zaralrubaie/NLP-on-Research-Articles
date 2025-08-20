@@ -1,8 +1,9 @@
 # Multi-label Classification of Academic Papers
-
 This project uses machine learning (Logistic Regression with OneVsRestClassifier) to classify academic papers into multiple categories based on their titles and abstracts.
 
-## Problem Statement: Given a dataset of academic papers with `TITLE` and `ABSTRACT`, the goal is to predict the presence of one or more of the following labels:
+## Problem: 
+Given a dataset of academic papers with `TITLE` and `ABSTRACT`, the goal is to predict the presence of one or more of the following labels:
+
 - Computer Science  
 - Physics  
 - Mathematics  
